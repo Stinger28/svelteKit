@@ -3,3 +3,5 @@ export  function load ({params}){
         content : `hello ${params.slug}`
     }
 }
+
+// hello perky
